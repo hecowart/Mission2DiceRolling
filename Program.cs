@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Hayden Cowart
+//Section 4
+//This is my IS 413 Mission 2 Assignment. It is a dice-rolling simulator! How exciting!
+
+using System;
 using Mission2;
 
 
